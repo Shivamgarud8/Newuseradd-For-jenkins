@@ -21,7 +21,7 @@ Use the following command to create a new user:
 sudo adduser devopsuser
 
 ```
-
+![user](/jen-user/u1)
 
 ⚙️ Step 2: Add User to the Sudo Group
 
