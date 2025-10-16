@@ -60,17 +60,23 @@ sudo nano /etc/sudoers
 ```bash
 devopsuser ALL=(ALL:ALL) NOPASSWD:ALL
 ```
+
+![user](/jen-user/5.png)
+
 Save and exit using:
 ```bash
 Ctrl + X → Y → Enter
 ```
-![user](/jen-user/j5.png)
+
 add script in jenkins here i made simple .sh fir testing
 ```
 sudo mkdir /home/bhushan/data
 ```
-![user](/jen-user/j6.png)
+
+![user](/jen-user/j4.png)
+
 ![user](/jen-user/j5.png)
+
 ![user](/jen-user/6.png)
 
 
