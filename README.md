@@ -21,7 +21,7 @@ Use the following command to create a new user:
 sudo adduser devopsuser
 
 ```
-![user](/jen-user/u1)
+![user](/jen-user/u1.png)
 
 ⚙️ Step 2: Add User to the Sudo Group
 
@@ -31,7 +31,7 @@ Once the user is created, give them admin privileges using:
 sudo usermod -aG sudo devopsuser
 
 ```
-
+![user](/jen-user/u2.png)
 ✅ This allows the user to execute commands with sudo.
 
 
@@ -42,7 +42,7 @@ Switch to the new user:
 su  - devopsuser
 
 ``` 
-
+![user](/jen-user/u3.png)
 
 
 🔒 Step 3: Allow Sudo Access Without Password
@@ -64,11 +64,15 @@ Save and exit using:
 ```bash
 Ctrl + X → Y → Enter
 ```
-
+![user](/jen-user/j5.png)
 add script in jenkins here i made simple .sh fir testing
 ```
 sudo mkdir /home/bhushan/data
 ```
+![user](/jen-user/j6.png)
+![user](/jen-user/j5.png)
+![user](/jen-user/6.png)
+
 
 ⚡ Pro Tip
 
