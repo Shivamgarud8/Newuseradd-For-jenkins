@@ -18,7 +18,7 @@ This is a key skill for anyone learning **Linux, DevOps, or Cloud Administration
 Use the following command to create a new user:
 
 ```bash
-sudo adduser devopsuser
+sudo useradd devopsuser
 
 ```
 ![user](/jen-user/u1.png)
