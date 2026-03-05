@@ -2,7 +2,7 @@
 
 
 
-🔐 Create a New Linux User & Add to Sudoers 🧑‍💻
+🔐 Create a New Linux User & Add to Sudoers 🧑‍💻.
 
 Hey everyone 👋  
 
